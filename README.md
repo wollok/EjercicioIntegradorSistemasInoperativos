@@ -1,4 +1,7 @@
 # Sistemas Inoperativos
+ 
+[![Build Status](https://travis-ci.org/wollok/EjercicioIntegradorSistemasInoperativos.svg?branch=master)](https://travis-ci.org/wollok/EjercicioIntegradorSistemasInoperativos)
+
 
 **Nos encontramos ante la necesidad de modelar diferentes sistemas operativos para poder probar su instalación y comportamiento.**
 
